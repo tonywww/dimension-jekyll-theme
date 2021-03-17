@@ -1,7 +1,7 @@
 # Site settings
-title: Dimension
-email: youremailaddress@gmail.com
-description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
+title: Test Dimension
+email: contact@tony.pp.ua
+description: A fully responsive site template.
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -16,14 +16,14 @@ icon: fa-diamond # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/tonywww
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
